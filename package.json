@@ -1,0 +1,12 @@
+{
+    "name": "doc2json",
+    "description": "Small app that fetches csv files from public google spreadsheets and renders json docs.",
+    "version": "0.0.1",
+    "private": false,
+    "dependencies": {
+        "cli":"0.4.4",
+        "csv": "0.3.0",
+        "miso.dataset": "0.4.1",
+        "request": "2.21.0"
+    }
+}
